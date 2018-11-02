@@ -1,0 +1,22 @@
+{
+  "name": "rasp",
+  "version": "1.0.0",
+  "description": "Schedule Adoredance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stanislavqq/rasp.git"
+  },
+  "author": "Stanislav QQ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stanislavqq/rasp/issues"
+  },
+  "homepage": "https://github.com/stanislavqq/rasp#readme",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
